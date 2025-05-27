@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charles! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Charles! <br/><a href="https://github.com/chacha254/SirCharles-Software-Solutions">Programmer</a>, <a href="www.linkedin.com/in/sircharles-o-onyango-9a555b260">Cybersecurity Professional</a>, <a href="https://youtube.com/@primetimetechnologies?si=Vey7nrTVkK1l5ucH">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -9,7 +9,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [<--Title-->](<--Link-->)
+- [<Principle of Mentalisim](<--link-->)
 
 
 <h2> 🤳 Connect with me:</h2>
